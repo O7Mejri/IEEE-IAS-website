@@ -869,7 +869,7 @@ section {
 }
 
 .form-control::-webkit-input-placeholder {
-  opacity: .5;
+  opacity: .45;
 }
 
 .form-control::-moz-placeholder {
