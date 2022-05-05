@@ -6,7 +6,7 @@ AUTHOR:
 IEEE IAS excutive board
 
 
-CREDITS:
+Technologies used:
 
 Bootstrap
 http://getbootstrap.com/
